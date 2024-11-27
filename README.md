@@ -26,6 +26,7 @@ Le but est de devenir le joueur ayant le moins de critères invalides à la fin 
 - La "toolbox" est la pile d'Outils non utilisés faces cachées.
 - La "forge" est la pile d'Outils uilisés faces visibles.
 - Le "done" est la pile de Critères déjà traités faces visibles.
+- Les cartes Déficiences sont placées faces cachées.
 - Chaque joueur tire un rôle au hasard et la pose sur la première étape face visible dans l'ordre.
 
 ### 2. Tour de jeu
