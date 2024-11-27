@@ -49,9 +49,9 @@ Le but est de devenir le joueur ayant le moins de critères invalides à la fin 
 
 ---
 
-## Conclusion & Twist final
+## Fin de partie & mode de jeu alternatif
 Ce jeu vise à sensibiliser aux problèmes d'accessibilité web tout en favorisant la collaboration et l'échange d'idées.
 
-Le twist : 
+Mode de jeu alternatif : 
 - A la fin de la partie, il y a des perdants. Ce sont les utilisateurs.
 - Les joueurs sont partis du principe qu'il fallait jouer les uns contre les autres. Or, en coopération il est possible que le produit final ne souffre d'aucun point bloquant et c'est tout le monde qui gagne la partie.
