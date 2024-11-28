@@ -29,7 +29,7 @@ Le but est de devenir le joueur ayant le moins de critères invalides à la fin 
 - Chaque joueur tire un rôle au hasard et la pose sur la première étape face visible dans l'ordre.
 
 ### 2. Tour de jeu
-- Au début de chaque tour de jeu les joueurs tirent une carte Critère dans le "backlog" à tour de rôle en suivant l'ordre des rôles visibles sur l'étape en cours.
+- Au début de chaque tour les joueurs tirent une carte Critère dans le "backlog" à tour de rôle en suivant l'ordre des rôles visibles sur l'étape en cours.
 - Ils doivent gérer cette carte en utilisant une des actions suivantes :
   - **Utiliser un Outil :** Le joueur peut choisir de tirer un outil. S'il pense que l'outil en sa possession est approprié, il peut justifier son choix, poser le Critère dans les "done" et l'outil dans la "forge" puis avancer d'une étape.
     - Le choix est donné aux autres joueurs d'accepter ou non la justification. En cas de contestation, une justification inverse devra être proposée par le ou les autres joueurs.
