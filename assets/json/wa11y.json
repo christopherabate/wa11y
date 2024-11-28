@@ -354,7 +354,7 @@
         {
             "image": "criteria.jpg",
             "title": "En-têtes et étiquettes",
-            "description": "Utiliser des en-têtes et des étiquettes descriptifs pour faciliter la navigation et la compréhension.",
+            "description": "Fournir des en-têtes et des étiquettes clairs et pertinents pour améliorer la navigation et la compréhension du contenu.",
             "icon": "list-check",
             "complementary": "WCAG 2.4.6 AA"
         },
@@ -368,7 +368,7 @@
         {
             "image": "criteria.jpg",
             "title": "Identifier la finalité de la saisie",
-            "description": "Fournir des associations explicites pour les relations dans les tableaux, formulaires ou groupes d’éléments afin d’améliorer l’accessibilité.",
+            "description": "Indiquer clairement la finalité de chaque champ de saisie pour faciliter la compréhension et l'utilisation, en particulier pour les technologies d’assistance.",
             "icon": "list-check",
             "complementary": "WCAG 1.3.5 AA"
         }
