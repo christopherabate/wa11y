@@ -322,6 +322,55 @@
             "description": "Déclarer la langue principale de la page dans le code afin que les technologies d’assistance puissent lire le contenu avec la bonne prononciation et intonation.",
             "icon": "list-check",
             "complementary": "WCAG 3.1.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Redimensionnement du texte",
+            "description": "Permettre aux utilisateurs de redimensionner le texte jusqu’à 200 % sans perte de contenu ni de fonctionnalité.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.4 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Texte sous forme d’image",
+            "description": "Éviter les images contenant du texte lorsque le même effet visuel peut être obtenu avec du texte stylisé dans le code, sauf si l’image est essentielle.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.5 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Fonction du lien (selon le contexte)",
+            "description": "Garantir que le but de chaque lien est déterminable à partir de son texte seul ou de son contexte immédiat.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.4 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Messages d’état",
+            "description": "S'assurer que les messages d’état (comme les erreurs de formulaire) sont accessibles aux technologies d’assistance sans nécessiter de focus.",
+            "icon": "list-check",
+            "complementary": "WCAG 4.1.3 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "En-têtes et étiquettes",
+            "description": "Utiliser des en-têtes et des étiquettes descriptifs pour faciliter la navigation et la compréhension.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.6 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Redistribution",
+            "description": "Garantir que le contenu peut être présenté sans perte d’information ni de fonctionnalité, quelle que soit la taille de l’écran ou l’orientation.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.10 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Identifier la finalité de la saisie",
+            "description": "Fournir des associations explicites pour les relations dans les tableaux, formulaires ou groupes d’éléments afin d’améliorer l’accessibilité.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.3.5 AA"
         }
     ]
 }
