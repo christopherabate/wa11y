@@ -26,7 +26,6 @@ Le but est de devenir le joueur ayant le moins de critères invalides à la fin 
 - La "toolbox" est la pile d'Outils non utilisés faces cachées.
 - La "forge" est la pile d'Outils uilisés faces visibles.
 - Le "done" est la pile de Critères déjà traités faces visibles.
-- Les cartes Déficiences sont placées faces cachées.
 - Chaque joueur tire un rôle au hasard et la pose sur la première étape face visible dans l'ordre.
 
 ### 2. Tour de jeu
@@ -50,9 +49,9 @@ Le but est de devenir le joueur ayant le moins de critères invalides à la fin 
 
 ---
 
-## Fin de partie & mode de jeu alternatif
+## Conclusion & Twist final
 Ce jeu vise à sensibiliser aux problèmes d'accessibilité web tout en favorisant la collaboration et l'échange d'idées.
 
-Mode de jeu alternatif : 
+Le twist : 
 - A la fin de la partie, il y a des perdants. Ce sont les utilisateurs.
 - Les joueurs sont partis du principe qu'il fallait jouer les uns contre les autres. Or, en coopération il est possible que le produit final ne souffre d'aucun point bloquant et c'est tout le monde qui gagne la partie.

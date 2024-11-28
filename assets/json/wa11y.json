@@ -1,0 +1,327 @@
+{
+    "steps": [
+        {
+            "image": "steps.jpg",
+            "title": "Conception",
+            "description": "Création de l’interface utilisateur avec une attention particulière à l’accessibilité visuelle (contraste, couleurs).",
+            "icon": "1-circle",
+            "complementary": "Conception"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Prototypage",
+            "description": "Création de maquettes fonctionnelles en veillant à la structure logique des informations.",
+            "icon": "2-circle",
+            "complementary": "Prototypage"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Développement",
+            "description": "Programmation de l’interface utilisateur, s'assurant que tous les éléments sont accessibles via le clavier et bien structurés.",
+            "icon": "3-circle",
+            "complementary": "Développement"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Tests",
+            "description": "Évaluation de l’accessibilité à l’aide d’outils et de technologies d’assistance.",
+            "icon": "4-circle",
+            "complementary": "Tests"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Contribution",
+            "description": "Validation finale des critères d’accessibilité avant la mise en production.",
+            "icon": "5-circle",
+            "complementary": "Contribution"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Mise en Production",
+            "description": "Publication du site en ligne, avec tous les critères d’accessibilité respectés.",
+            "icon": "6-circle",
+            "complementary": "Mise en Production"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Audit accessibilité",
+            "description": "Dernière phase pour prendre en compte les critères d'accessibilité restants.",
+            "icon": "7-circle",
+            "complementary": "Audit accessibilité"
+        },
+        {
+            "image": "steps.jpg",
+            "title": "Déclaration accessibilité",
+            "description": "Analyse détaillée d'un échantillon représentatif du site ou du service.",
+            "icon": "check-circle",
+            "complementary": "Déclaration accessibilité"
+        }
+    ],
+    "roles": [
+        {
+            "image": "10681296.jpg",
+            "title": "Project Manager",
+            "description": "Responsable de la gestion des délais et des ressources, garantissant le bon déroulement du projet dans le respect des critères d’accessibilité.",
+            "icon": "person-badge",
+            "complementary": "Donner un critère à un autre joueur lors de l'audit"
+        },
+        {
+            "image": "9796308.jpg",
+            "title": "Product Owner",
+            "description": "Responsable de la définition des besoins des utilisateurs et de la priorisation des fonctionnalités, tout en garantissant que le produit final répond aux attentes.",
+            "icon": "people-fill",
+            "complementary": "Rejouer lors de l'audit"
+        },
+        {
+            "image": "9906021.jpg",
+            "title": "Développeur",
+            "description": "Crée le code qui rend le site fonctionnel tout en veillant à ce que chaque fonctionnalité soit accessible à tous les utilisateurs.",
+            "icon": "code-slash",
+            "complementary": "Corriger \"Nom, rôle, et valeur\" ou \"Information et relations\""
+        },
+        {
+            "image": "5187709.jpg",
+            "title": "Designer",
+            "description": "Crée des interfaces visuelles attrayantes tout en tenant compte des contraintes d’accessibilité, notamment en matière de couleurs et de contraste.",
+            "icon": "palette",
+            "complementary": "Corriger \"Contraste\" ou \"Utilisation de la couleur\""
+        },
+        {
+            "image": "8451560.jpg",
+            "title": "Expert en Accessibilité",
+            "description": "Évalue les fonctionnalités du site et garantit leur conformité aux normes d'accessibilité, apportant une expertise spécialisée.",
+            "icon": "lightbulb",
+            "complementary": "Regarder la main des joueurs lors de l'audit"
+        },
+        {
+            "image": "6496071.jpg",
+            "title": "Testeur",
+            "description": "Teste le site en utilisant différents outils et méthodes pour garantir que toutes les fonctionnalités sont accessibles.",
+            "icon": "bug",
+            "complementary": "Tirer une carte outil au début du jeu"
+        },
+        {
+            "image": "8239279.jpg",
+            "title": "Manager",
+            "description": "Assure la coordination des efforts au sein de l'équipe, en veillant à ce que tous les aspects du projet respectent les exigences d'accessibilité.",
+            "icon": "person-lines-fill",
+            "complementary": "Échanger un critère avec la forge lors de l'audit"
+        }
+    ],
+    "disabilities": [
+        {
+            "image": "disabilities.jpg",
+            "title": "Visuel",
+            "description": "Inclut la cécité, la malvoyance et les troubles de la vision des couleurs, affectant l'interprétation visuelle des contenus numériques.",
+            "icon": "eye",
+            "complementary": "13% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Auditif",
+            "description": "Concerne les personnes sourdes ou malentendantes, nécessitant des sous-titres, des transcriptions ou des interprètes en langue des signes.",
+            "icon": "volume-mute",
+            "complementary": "5% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Moteur",
+            "description": "Affecte la mobilité ou la coordination des membres, impactant l'utilisation d'une souris ou d'un clavier.",
+            "icon": "hand-index",
+            "complementary": "7% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Psychique",
+            "description": "Concerne des troubles mentaux tels que l'anxiété ou la dépression, influençant la capacité à interagir avec des interfaces complexes.",
+            "icon": "emoji-frown",
+            "complementary": "6% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Intellectuel",
+            "description": "Inclut des troubles comme le handicap cognitif, limitant la capacité à comprendre ou interpréter des informations complexes.",
+            "icon": "lightbulb-off",
+            "complementary": "3% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Trouble Dys",
+            "description": "Troubles spécifiques de l’apprentissage comme la dyslexie (lecture), la dyspraxie (coordination), ou la dysphasie (langage), nécessitant une simplification des contenus.",
+            "icon": "book",
+            "complementary": "8% de la population"
+        },
+        {
+            "image": "disabilities.jpg",
+            "title": "Maladies invalidantes",
+            "description": "Maladies chroniques comme la sclérose en plaques, affectant la concentration ou l'énergie disponible pour utiliser un site ou une application.",
+            "icon": "heart-pulse",
+            "complementary": "4% de la population"
+        }
+    ],
+    "tools": [
+        {
+            "image": "tools.jpg",
+            "title": "Correcteur syntaxique",
+            "description": "Analyse les textes pour identifier et corriger automatiquement les erreurs grammaticales, orthographiques et syntaxiques.",
+            "icon": "tools",
+            "complementary": "Automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Test continu",
+            "description": "Exécute des tests automatisés intégrés au pipeline de développement pour vérifier les critères d’accessibilité à chaque étape.",
+            "icon": "tools",
+            "complementary": "Automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Surveillance",
+            "description": "Suit périodiquement l’état de conformité d’un site aux normes d’accessibilité, en signalant les régressions potentielles.",
+            "icon": "tools",
+            "complementary": "Automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Vérificateur de contraste",
+            "description": "Évalue la lisibilité des combinaisons de couleurs en calculant le taux de contraste.",
+            "icon": "tools",
+            "complementary": "Semi-automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Extension navigateur",
+            "description": "Ajoute des outils d’analyse directement dans le navigateur pour tester l’accessibilité des pages en développement.",
+            "icon": "tools",
+            "complementary": "Semi-automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Marque-page scripté",
+            "description": "Execute des scripts JavaScript spécifiques pour tester des aspects précis de l’accessibilité d’une page.",
+            "icon": "tools",
+            "complementary": "Semi-automatique"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Inspecteur de code",
+            "description": "Permet d’examiner manuellement le code HTML et CSS pour repérer les erreurs ou omissions dans l’accessibilité.",
+            "icon": "tools",
+            "complementary": "Manuel"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Clavier",
+            "description": "Utilisé pour tester manuellement la navigation par tabulation, en s’assurant que tous les éléments interactifs sont accessibles.",
+            "icon": "tools",
+            "complementary": "Manuel"
+        },
+        {
+            "image": "tools.jpg",
+            "title": "Aide technique",
+            "description": "Inclut les lecteurs d’écran, logiciels de loupe, et autres technologies pour tester l’expérience utilisateur des personnes en situation de handicap.",
+            "icon": "tools",
+            "complementary": "Manuel"
+        }
+    ],
+    "criteria": [
+        {
+            "image": "criteria.jpg",
+            "title": "Contrastes",
+            "description": "Garantir un contraste suffisant entre le texte (ou les images de texte) et l’arrière-plan afin de le rendre lisible, y compris pour les utilisateurs ayant une déficience visuelle.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.2 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Nom, rôle et valeur",
+            "description": "S’assurer que les composants d’interface utilisateur disposent d’un nom, d’un rôle, et que leurs propriétés, valeurs et états sont accessibles par les technologies d’assistance.",
+            "icon": "list-check",
+            "complementary": "WCAG 4.1.2 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Information et relations",
+            "description": "Présenter les informations et les relations (comme les en-têtes de tableaux ou les structures hiérarchiques) de manière à ce qu'elles soient compréhensibles à la fois visuellement et pour les technologies d’assistance.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.3.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Contenu non textuel",
+            "description": "Fournir une alternative textuelle pour tout contenu non textuel (images, graphiques, vidéos, icônes) afin de le rendre compréhensible pour les utilisateurs ayant des limitations visuelles ou cognitives.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.1.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Parcours du focus",
+            "description": "Assurer que l’ordre de navigation au clavier suit une séquence logique et intuitive, pour que les utilisateurs puissent facilement accéder à tous les contenus interactifs.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.3 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Clavier",
+            "description": "Veiller à ce que toutes les fonctionnalités soient accessibles uniquement via le clavier, sans nécessiter de dispositif de pointage comme une souris.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.1.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Visibilité du focus",
+            "description": "Garantir que le focus est visible de manière claire pour aider les utilisateurs naviguant au clavier à repérer où se situe leur interaction à l’écran.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.7 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Contraste du contenu non textuel",
+            "description": "S’assurer que les éléments graphiques et les composants de l’interface utilisateur disposent d’un contraste suffisant avec leur arrière-plan pour être perçus facilement.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.11 AA"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Utilisation de la couleur",
+            "description": "Ne pas se fier uniquement à la couleur pour transmettre des informations, afin de garantir leur accessibilité à tous, y compris aux utilisateurs daltoniens.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.4.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Ordre séquentiel logique",
+            "description": "Vérifier que l’ordre de navigation et de lecture du contenu est cohérent et suit une logique qui facilite sa compréhension.",
+            "icon": "list-check",
+            "complementary": "WCAG 1.3.2 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Étiquettes ou instructions",
+            "description": "Fournir des étiquettes claires ou des instructions appropriées pour aider les utilisateurs à comprendre les champs ou les interactions nécessitant une saisie.",
+            "icon": "list-check",
+            "complementary": "WCAG 3.3.2 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Contourner des blocs",
+            "description": "Permettre aux utilisateurs de contourner les blocs de contenu répétitifs, comme les menus, pour accéder directement aux sections importantes.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.1 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Titre de page",
+            "description": "Fournir un titre descriptif et unique à chaque page pour indiquer son contenu ou son objectif de manière claire.",
+            "icon": "list-check",
+            "complementary": "WCAG 2.4.2 A"
+        },
+        {
+            "image": "criteria.jpg",
+            "title": "Langue de la page",
+            "description": "Déclarer la langue principale de la page dans le code afin que les technologies d’assistance puissent lire le contenu avec la bonne prononciation et intonation.",
+            "icon": "list-check",
+            "complementary": "WCAG 3.1.1 A"
+        }
+    ]
+}

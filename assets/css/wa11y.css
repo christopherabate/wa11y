@@ -1,0 +1,202 @@
+/* Nunito ExtraLight */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+/* Nunito ExtraLight Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-ExtraLightItalic.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+/* Nunito Light */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+/* Nunito Light Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+/* Nunito Regular */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+/* Nunito Regular Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Nunito Medium */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+/* Nunito Medium Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+/* Nunito SemiBold */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+/* Nunito SemiBold Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Nunito Bold */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* Nunito Bold Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-BoldItalic.ttf') format('truetype');
+    font-weight: 700;
+    font-style: italic;
+}
+
+/* Nunito ExtraBold */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+/* Nunito ExtraBold Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+
+/* Nunito Black */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+/* Nunito Black Italic */
+@font-face {
+    font-family: 'Nunito';
+    src: url('../../assets/fonts/Nunito/Nunito-BlackItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+:root {
+  --wa11y-size-unit: 8px;
+  --bs-body-color: #073b4c;
+  --bs-body-font-family: 'Nunito', sans-serif;
+}
+  
+.col {
+  padding-bottom: 2em;
+}
+
+.card {
+  height: calc(var(--wa11y-size-unit) * 80);
+  width: calc(var(--wa11y-size-unit) * 50);
+  font-size: calc(var(--wa11y-size-unit) * 2);
+}
+
+.card-body {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.card-footer .bi {
+  font-size: calc(var(--wa11y-size-unit) * 3);
+}
+
+.card-footer {
+  padding-top: var(--wa11y-size-unit);
+  padding-bottom: var(--wa11y-size-unit);
+}
+
+.card-title {
+  font-size: calc(var(--wa11y-size-unit) * 2.5);
+  margin-bottom: var(--wa11y-size-unit);
+  font-weight: 900;
+}
+
+@media print {
+  :root {
+    --wa11y-size-unit: 1mm;
+  }
+  
+  header,
+  footer,
+  h2 {
+    display: none !important;
+  }
+  
+  #cards {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+  
+  .row {
+    margin: 0 !important;
+    display: contents !important;
+  }
+  
+  .col {
+    padding: 0 !important;
+    display: inline-block !important;
+  }
+  
+  .card {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border: 1pt solid #eee !important;
+    border-radius: 0 !important;
+  }
+  
+  .shadow {
+    box-shadow: none !important;
+  }
+}
+
