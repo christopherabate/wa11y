@@ -130,6 +130,11 @@
   --wa11y-size-unit: 8px;
   --bs-body-color: #073b4c;
   --bs-body-font-family: 'Nunito', sans-serif;
+  --disabilities-color: #92E3A9;
+  --steps-color: #407BFF;
+  --roles-color: #BA68C8;
+  --criteria-color: #FFC100;
+  --tools-color: #FF725E;
 }
   
 .col {
